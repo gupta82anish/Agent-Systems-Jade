@@ -1,0 +1,124 @@
+<BookArgs>
+    <books>
+        <book>
+            <title>A Game of Thrones</title>
+            <author>George R.R. Martin</author>
+            <genre>FANTASY</genre>
+        </book>
+        <book>
+            <title>Harry Potter and the Sorcerer's Stone</title>
+            <author>J.K. Rowling</author>
+            <genre>FANTASY</genre>
+        </book>
+        <book>
+            <title>The Hunger Games</title>
+            <author>Suzanne Collins</author>
+            <genre>FICTION</genre>
+        </book>
+        <book>
+            <title>The Da Vinci Code</title>
+            <author>Dan Brown</author>
+            <genre>THRILLER</genre>
+        </book>
+        <book>
+            <title>The Maze Runner</title>
+            <author>James Dashner</author>
+            <genre>FICTION</genre>
+        </book>
+        <book>
+            <title>Ready Player One</title>
+            <author>Ernest Cline</author>
+            <genre>FICTION</genre>
+        </book>
+        <book>
+            <title>Ender's Game</title>
+            <author>Orson Scott Card</author>
+            <genre>FICTION</genre>
+        </book>
+        <book>
+            <title>The Silent Patient</title>
+            <author>Alex Michaelides</author>
+            <genre>THRILLER</genre>
+        </book>
+        <book>
+            <title>Angels and Demons</title>
+            <author>Dan Brown</author>
+            <genre>THRILLER</genre>
+        </book>
+        <book>
+            <title>Gone Girl</title>
+            <author>Gillian Flynn</author>
+            <genre>THRILLER</genre>
+        </book>
+        <book>
+            <title>Pride and Prejudice</title>
+            <author>Jane Austen</author>
+            <genre>CLASSIC</genre>
+        </book>
+        <book>
+            <title>The Hobbit</title>
+            <author>J.R.R. Tolkien</author>
+            <genre>FANTASY</genre>
+        </book>
+        <book>
+            <title>To Kill a Mockingbird</title>
+            <author>Harper Lee</author>
+            <genre>CLASSIC</genre>
+        </book>
+        <book>
+            <title>1984</title>
+            <author>George Orwell</author>
+            <genre>FANTASY</genre>
+        </book>
+        <book>
+            <title>The Great Gatsby</title>
+            <author>F. Scott Fitzgerald</author>
+            <genre>CLASSIC</genre>
+        </book>
+        <book>
+            <title>A Brief History of Time</title>
+            <author>Stephen Hawking</author>
+            <genre>SCIENCE</genre>
+        </book>
+        <book>
+            <title>The Code Book</title>
+            <author>Simon Singh</author>
+            <genre>SCIENCE</genre>
+        </book>
+        <book>
+            <title>The Lord of the Rings</title>
+            <author>J.R.R. Tolkien</author>
+            <genre>FANTASY</genre>
+        </book>
+        <book>
+            <title>The Selfish Gene</title>
+            <author>Richard Dawkins</author>
+            <genre>SCIENCE</genre>
+        </book>
+        <book>
+            <title>Dune</title>
+            <author>Frank Herbert</author>
+            <genre>FICTION</genre>
+        </book>
+        <book>
+            <title>The Catcher in the Rye</title>
+            <author>J.D. Salinger</author>
+            <genre>CLASSIC</genre>
+        </book>
+        <book>
+            <title>The Elegant Universe</title>
+            <author>Brian Greene</author>
+            <genre>SCIENCE</genre>
+        </book>
+        <book>
+            <title>Brave New World</title>
+            <author>Aldous Huxley</author>
+            <genre>FICTION</genre>
+        </book>
+        <book>
+            <title>Ghost In The Wires</title>
+            <author>Kevin Mitnick</author>
+            <genre>THRILLER</genre>
+        </book>
+    </books>
+</BookArgs>

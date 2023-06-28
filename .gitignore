@@ -1,0 +1,30 @@
+# Ignore IntelliJ IDEA specific files
+*.iml
+*.iws
+*.ipr
+
+# Directories to be ignored
+.idea/workspace.xml
+out/
+target/
+
+# Ignore the files below - these are typically generated from building Java projects
+*.class
+*.log
+
+# JADE Config Files
+APDescription.txt
+MTPs-Main-container.txt
+# Package Files #
+
+# Ignore the local settings
+*.properties
+
+# Ignore generated build directories
+/dist/
+/bin/
+
+# Ignore Maven generated files
+/log/
+/target/
+
